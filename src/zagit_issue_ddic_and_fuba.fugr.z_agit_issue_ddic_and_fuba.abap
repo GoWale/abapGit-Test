@@ -1,4 +1,4 @@
-FUNCTION Z_AGIT_ISSUE_DDIC_AND_FUBA.
+FUNCTION z_agit_issue_ddic_and_fuba.
 *"----------------------------------------------------------------------
 *"*"Local Interface:
 *"  TABLES
@@ -9,8 +9,6 @@ FUNCTION Z_AGIT_ISSUE_DDIC_AND_FUBA.
 *"     REFERENCE(CALLCONTROL) TYPE  DDSHF4CTRL
 *"----------------------------------------------------------------------
 
-
-
-
+  DATA: lv_egon TYPE z_agit_issue_ddic_and_fuba.
 
 ENDFUNCTION.
